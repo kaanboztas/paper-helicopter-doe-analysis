@@ -205,7 +205,6 @@ Rscript helikopter_deneyi_analiz.R
 
 - **Ders:** İST 3032 - İstatistiksel Deney Tasarımı (Design of Experiments)
 - **Araştırmacı / Öğrenci:** Kaan Boztaş
-- **Öğrenci No:** 2022285066
 - **Tarih:** 2026
 
 ---
